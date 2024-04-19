@@ -1,0 +1,43 @@
+body {
+    column-count: 4;
+    column-gap: 25px;
+    column-fill: balance;
+
+}
+.head{
+    font-size: 500;
+    font-weight: 800;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.zpar {
+    font-size: 80;
+    font-weight: 150;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:aliceblue;
+}
+
+#lava {
+    font-size: 150;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aliceblue;
+}
+#cus {
+    font-size: 150;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aliceblue;
+}
+#cusdo {
+    font-size: 150;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aliceblue;
+}
+#nut {
+    font-size: 150;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aliceblue;
+}
